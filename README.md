@@ -25,7 +25,7 @@ The model is trained to classify images into multiple categories, demonstrating 
 ---
 
 ## 📂 Dataset
-- Dataset used: Randomple pciked 50 'not you' or unkown images and 50 'your 'images
+- Dataset used: Randomly picked 50 'not you' or unkown images and 50 'your 'images
 - Input image size: **28×28 grayscale images**
 
 ---
